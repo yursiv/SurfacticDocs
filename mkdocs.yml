@@ -1,0 +1,43 @@
+site_name: SurfasticDocs
+
+nav:
+  - "Contents": index.md
+
+  - 'Polygons':
+      - 'Contents':  Polygons/index.md
+      - 'FGroups':  Polygons/define_fgroups.md
+      - 'MStrokes':  Polygons/define_strokes.md
+
+
+  - 'NURBS':
+      - 'Contents': NURBS/index.md
+      - 'Create Geometry': NURBS/1_Create_Geometry.md
+      - 'Curves Edit': NURBS/2_Curves_edit.md
+      - 'Surfaces Edit': NURBS/3_Surfaces_edit.md
+      - 'Align Geometry': NURBS/4_Align.md
+      - 'Gizmos': NURBS/5_Gizmos.md
+
+  #- Create Curves: NURBS_Modeling/Create_Curves.md
+
+  #- Image Modeling: Image_Modeling/image_modeling.md
+
+  #- Materials: Materials/materials.md
+
+  #- Hotkeys: hotkeys/hotkeys.md
+
+
+#    [Image Modeling]: docs/Image%20Modeling/image_modeling.md
+#    [Data Managment]: docs/Data%20Managment/data_managment.md
+#    [Grease Pencil]: docs/Grease%20Pencil/grease_pencil.md
+
+repo_url: https://github.com/yursiv/SurfasticDocs
+
+docs_dir: docs
+site_dir: site
+
+markdown_extensions:
+  - smarty
+  - admonition
+
+
+theme: readthedocs
