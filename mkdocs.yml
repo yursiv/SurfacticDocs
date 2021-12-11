@@ -1,4 +1,5 @@
 site_name: SurfasticDocs
+site_url: https://yursiv.github.io/SurfasticDocs/
 
 nav:
   - "Contents": index.md
