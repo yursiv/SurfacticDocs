@@ -2,97 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/md_syntax/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Data_Managment/data_managment/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Grease_Pencil/grease_pencil/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Image_Modeling/image_modeling/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Materials/materials/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/NURBS/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/NURBS/1_Create_Geometry/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/NURBS/2_Curves_edit/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/NURBS/3_Surfaces_edit/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/NURBS/4_Align/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/NURBS/5_Gizmos/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yursiv.github.io/SurfasticDocs/Operators/</loc>
+         <lastmod>2022-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yursiv.github.io/SurfasticDocs/Operators/ops_mesh/</loc>
+         <lastmod>2022-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yursiv.github.io/SurfasticDocs/Operators/ops_mesh_strokes/</loc>
+         <lastmod>2022-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yursiv.github.io/SurfasticDocs/Operators/ops_object/</loc>
+         <lastmod>2022-05-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://yursiv.github.io/SurfasticDocs/Operators/ops_view3d/</loc>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Polygons/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Polygons/define_fgroups/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Polygons/define_strokes/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/Polygons/uv_editing/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/hotkeys/all_hotkeys/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/hotkeys/hotkeys/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://yursiv.github.io/SurfasticDocs/hotkeys/legacy/mesh/</loc>
-         <lastmod>2021-12-11</lastmod>
+         <lastmod>2022-05-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
